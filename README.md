@@ -1,5 +1,5 @@
 
-# JavaScript capstone project - RPG game
+# JavaScript capstone project - RPG GAME
 
 Building a turn-based RPG game using JavaScript and Phaser game engine
 
@@ -209,7 +209,7 @@ Use your terminal and run the commands after each instruction.
 | Command                                                   | Description                                           |
 | ----------------------------------------------------------| ----------------------------------------------------- |
 | `git clone https://github.com/Arinpe/RPg_Games.git` | Clone the repository to you computer                  |
-| `cd RPG-game`                                             | Navigate to the newly created folder                  |
+| `cd RPg_Games`                                             | Navigate to the newly created folder                  |
 | `npm install`                                             | Install dependencies and launch browser with examples |
 | `npm start`                                               | Makes the build and starts the development server     |
 |                                                           | Press `Ctrl + c` to kill **http-server** process      |
