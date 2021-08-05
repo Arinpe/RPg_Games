@@ -11,7 +11,7 @@ export default class CreditsScene extends Phaser.Scene {
 
   create() {
     this.creditsText = this.add.text(0, 100, 'Credits', { fontSize: '45px', fontWeight: 'bold', fill: '#fff' });
-    this.madeByText = this.add.text(0, 0, 'By: Adedeko Olawale', { fontSize: '26px', fill: '#fff' });
+    this.madeByText = this.add.text(0, 0, 'By: Adesuyi Adetola', { fontSize: '26px', fill: '#fff' });
     this.zone = this.add.zone(config.width / 2, config.height / 2, config.width, config.height);
 
     centerItem(this.creditsText, this.zone);
