@@ -200,7 +200,7 @@ The top 5 best scores are listed on the LeaderBoard.
 ### Live version
 
 The game is hosted on two different servers, macexperts.gr and netlify.com. Both use the same API to store the scores so it does not matter in which one you play. You can play the game here: 
-- [**Live Version**](https://pensive-jepsen-64351b.netlify.app/)
+- [**Live Version**](https://optimistic-montalcini-2ab022.netlify.app/)
 
 ### How to Install and Run in Your Computer
 
