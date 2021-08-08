@@ -3,6 +3,8 @@
 
 Building a turn-based RPG game using JavaScript and Phaser game engine
 
+[Live demo link](https://optimistic-montalcini-2ab022.netlify.app/)
+
 ## GAME DESIGN DOCUMENTATION
 #### Design Process
 
