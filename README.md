@@ -1,5 +1,5 @@
 
-# JavaScript capstone project - RPG GAME
+# JavaScript capstone project - RPG GAME..
 
 Building a turn-based RPG game using JavaScript and Phaser game engine
 
