@@ -1,8 +1,9 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/06f45e3a-b5b3-4e1b-9242-97a5b2ab2a6f/deploy-status)](https://app.netlify.com/sites/pensive-jepsen-64351b/deploys)
 
-# JavaScript capstone project - RPG game
+# JavaScript capstone project - RPG GAME..
 
 Building a turn-based RPG game using JavaScript and Phaser game engine
+
+[Live demo link](https://optimistic-montalcini-2ab022.netlify.app/)
 
 ## GAME DESIGN DOCUMENTATION
 #### Design Process
@@ -10,7 +11,7 @@ Building a turn-based RPG game using JavaScript and Phaser game engine
 > The aim of this project was to create a turn based RPG game with the story centered around a hero(player).
 
 #### Story and game play
-The game is centered is about a hero that goes in serach of treasures in a dangerous land. People known to venture to this land were never seen again, hence the land is called NO ESCAPE. The hero embarking on this perilious journey aims to change all that by conquering all the trolls in the land and getting all the treasures of NO ESCAPE.
+The game is centered about a hero that goes in search of treasures in a dangerous land. People known to venture to this land were never seen again, hence the land is called NO ESCAPE. The hero embarking on this perilious journey aims to change all that by conquering all the trolls in the land and getting all the treasures of NO ESCAPE.
 
 #### Assets choice
 Choice of assets for the game was obtained from opengameart.org, this includes player, troll, chest, background, trees.
@@ -30,7 +31,7 @@ I followed the tutorial on gamedevacademy.org on how to build a turn based RPG g
 > I scaled images to preferred sizes
 
 ##### DAY 3
-> Proloaded assets
+> Preloaded assets
 
 > Created a game template
 
@@ -41,14 +42,14 @@ I followed the tutorial on gamedevacademy.org on how to build a turn based RPG g
 
 > Created different scenes of the game but not the full functionality
 
-> Linked scenes to each other to simulate gameplay
+> Linked scenes to each other to simulate game play
 
 ##### DAY 4
 > I added animation to player sprite.
 
 > I added collision between player and walls, obstacles.
 
-> I checked for overlap between player and chest, the switched to the battle scene if ther is an overlap.
+> I checked for overlap between player and chest, the switched to the battle scene if their is an overlap.
 
 > I Implemented battle logic of the game. 
 
@@ -199,7 +200,7 @@ The top 5 best scores are listed on the LeaderBoard.
 ### Live version
 
 The game is hosted on two different servers, macexperts.gr and netlify.com. Both use the same API to store the scores so it does not matter in which one you play. You can play the game here: 
-- [**Live Version**](https://pensive-jepsen-64351b.netlify.app/)
+- [**Live Version**](https://optimistic-montalcini-2ab022.netlify.app/)
 
 ### How to Install and Run in Your Computer
 
@@ -209,8 +210,8 @@ Use your terminal and run the commands after each instruction.
 
 | Command                                                   | Description                                           |
 | ----------------------------------------------------------| ----------------------------------------------------- |
-| `git clone https://github.com/OlawaleJoseph/RPG-GAME.git` | Clone the repository to you computer                  |
-| `cd RPG-game`                                             | Navigate to the newly created folder                  |
+| `git clone https://github.com/Arinpe/RPg_Games.git` | Clone the repository to you computer                  |
+| `cd RPg_Games`                                             | Navigate to the newly created folder                  |
 | `npm install`                                             | Install dependencies and launch browser with examples |
 | `npm start`                                               | Makes the build and starts the development server     |
 |                                                           | Press `Ctrl + c` to kill **http-server** process      |
@@ -228,21 +229,21 @@ Use your terminal and run the commands after each instruction.
 
 [Up](#Table-of-Contents)
 
-👤 **Adedeko Olawale**
+👤 **Adesuyi Adetola**
 
-- Github: [@OlawaleJoseph](https://github.com/OlawaleJoseph)
-- Twitter: [@javanode123](https://twitter.com/javanode123)
-- Linkedin: [olawale-adedeko](http://www.linkedin.com/in/olawale-adedeko)
+- Github: [@Arinpe](https://github.com/Arinpe)
+- Twitter: [@_detola_](https://twitter.com/_detola_)
+- Linkedin: [aadetola](http://www.linkedin.com/in/aadetola)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/OlawaleJoseph/RPG-GAME/issues).
+Feel free to check the [issues page](https://github.com/Arinpe/RPg_Games/issues).
 
-1. Fork it (https://github.com/OlawaleJoseph/RPG-GAME/fork)
+1. Fork it (https://github.com/Arinpe/RPg-Games/fork)
 2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -am 'Add some feature')
+3. Commit your changes (git commit -m 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create a new Pull Request
 
